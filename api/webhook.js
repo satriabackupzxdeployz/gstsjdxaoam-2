@@ -390,7 +390,7 @@ async function sendHelp(chat_id, is_owner = false) {
     `🔹 /ampremium \`<email>\` — Kirim link verifikasi ke email kamu\n\n` +
     `🔹 /amverify \`<email> | <link>\` — Verifikasi setelah dapat link\n\n` +
     `━━━━━━━━━━━━━━━━━━━━━━━━${ownerSection}\n\n` +
-    `_Engine System by Amane Ofc_`
+    `_Engine System by Satriadevs | Codersteam_`
   );
 }
 
